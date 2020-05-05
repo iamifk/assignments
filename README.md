@@ -1,2 +1,2 @@
 # assignments
-all assignments in class
+all assignments in class of javaScript Semester 1
